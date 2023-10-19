@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**VinnieFreitass/VinnieFreitass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://i.pinimg.com/564x/3e/ea/47/3eea47671a5e99f6ee5edf324f4b2917.jpg" aligh="center">
+</div>
+<div style="display: inline_block">
+<h1 align="center">✨✨✨Hi everybody!✨✨✨</h1>
+ <img height="250em" align="right" src="https://i.pinimg.com/564x/43/54/2e/43542ed03025501cce35f96d5f58dbf7.jpg" >
+<p>🖖I am Vinicius.</br>
+📚 I'm currently studying:</p>
+<ul align="height">
+<li>Mobile Development (Flutter)
+<li>Web Development (JS)
+<li>and some other things.
+</ul>
 
-Here are some ideas to get you started:
+</br></br></br></br></br>
+</div>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="right">
+
+</div>
+
+
+</div>
+
+      
