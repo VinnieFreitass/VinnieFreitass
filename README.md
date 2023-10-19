@@ -10,6 +10,7 @@
 <ul align="height">
 <li>Mobile Development (Flutter)
 <li>Web Development (JS)
+<li>Medical Informatics solutions
 <li>and some other things.
 </ul>
 
